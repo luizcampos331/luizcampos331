@@ -14,7 +14,7 @@
 - React JS
 - React Native
 
-## :bust_in_silhouette: Quer falar comigo? me chama nas redes sociais, será um prazer conversar :grin:
+## :bust_in_silhouette: Quer falar comigo? me chama nas redes sociais, será um prazer conversar e lhe ajudar no que precisar :grin:
 <p>
 <a href="https://www.linkedin.com/in/luiz-campos/">
 <img align="center"           src="https://camo.githubusercontent.com/609be48e654a9c8aed1660c2596b04f09ed13aee/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="luizcampos" height="40" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
