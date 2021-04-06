@@ -4,13 +4,13 @@
 
 <h3 align="center">Atualmente estou buscando uma oportunidade como desenvolvedor júnior :dart:</h3>
 
-## :computer: Estudando as tecnologias:
+## :computer: Tecnologias aprendidas:
 - HTML
 - CSS
 - JavaScript
-- Node SJ
 
-## :electron: Próximas tecnologias a serem aprendidas:
+## :electron: Estudando as tecnologias:
+- Node SJ
 - React JS
 - React Native
 
