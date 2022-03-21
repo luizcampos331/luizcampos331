@@ -2,17 +2,15 @@
 
 <h2 align="center">Futuro Desenvolvedor Full Stack, no momento, focado em aprender e contribuir com esse ensinamento que venho adiquirindo :book:</h2>
 
-<h3 align="center">Atualmente estou buscando uma oportunidade como desenvolvedor júnior :dart:</h3>
+<h3 align="center">Trabalhando como desenvolvedor fullstack na Comuncai.in</h3>
 
-## :computer: Tecnologias aprendidas:
-- HTML
-- CSS
-- JavaScript
-
-## :electron: Estudando as tecnologias:
+## :computer: Tecnologias:
 - Node SJ
-- React JS
+- React.js
 - React Native
+- C#
+- Vue.js
+
 
 ## :bust_in_silhouette: Quer falar comigo? me chama nas redes sociais, será um prazer conversar e lhe ajudar no que precisar :grin:
 <p>
