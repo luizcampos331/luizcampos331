@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋 sou o Luiz Campos </h1>
 
-<h2 align="center">Futuro Desenvolvedor Full Stack, no momento, focado em aprender e contribuir com esse ensinamento que venho adiquirindo :book:</h2>
+<h2 align="center">Desenvolvedor Full Stack, focado em aprender cada dia mais e mais :book:</h2>
 
 <h3 align="center">Trabalhando como desenvolvedor fullstack na Comuncai.in</h3>
 
