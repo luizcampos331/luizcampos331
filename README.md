@@ -1,11 +1,12 @@
-<h1 align="center">Olá 👋 sou o Luiz Campos </h1>
+<h1 align="center">Hello 👋 I am Luiz Campos </h1>
 
-<h2 align="center">Desenvolvedor Full Stack, focado em aprender cada dia mais e mais :book:</h2>
+<h2 align="center">Software engineerwith 𝟰 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 with specialized in 𝗡𝗼𝗱𝗲.𝗷𝘀 and resilient architectures :book:</h2>
 
-<h3 align="center">Trabalhando como desenvolvedor fullstack na Comuncai.in</h3>
+<h3 align="center">I'm working at Comuncai.in</h3>
 
-## :computer: Tecnologias:
+## :computer: Thecnologies:
 - Node SJ
+- Python
 - React.js
 - React Native
 - C#
