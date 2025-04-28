@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 I am Luiz Campos </h1>
 
-<h2 align="center">Software engineer with 𝟰 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 with specialized in 𝗡𝗼𝗱𝗲.𝗷𝘀 and resilient architectures :book:</h2>
+<h2 align="center">Software engineer with 10 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 with specialized in 𝗡𝗼𝗱𝗲.𝗷𝘀 and resilient architectures :book:</h2>
 
 <h3 align="center">I'm working at Comuncai.in</h3>
 
